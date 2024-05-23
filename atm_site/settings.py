@@ -36,7 +36,6 @@ LOCAL_APPS = ["atm_management"]
 
 THIRD_PARTY_APPS = [
     "rest_framework",
-    'drf_yasg'
 ]
 
 DJANGO_APPS = [
